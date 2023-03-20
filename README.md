@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rhconductivity, I'm an environmental health specialist and an epidemiologist
-- 👀 I’m interested in data sources for climate change issues involving pedestrians, water quality, land use/zoning, and infectious diseases
+- 👋 Hi, I’m @rhconductivity, I'm an environmental health specialist and epidemiologist.
+- 👀 I’m interested in data sources for climate change issues involving pedestrians, water quality, land use/zoning, One Health, and infectious diseases.
 - 🌱 I’m currently learning python and sas, sql in the future. 
 - 💞️ I’m looking to collaborate on data visualization projects.
 - 📫 How to reach me rhconductivity@protonmail.com
